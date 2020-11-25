@@ -1,8 +1,7 @@
-package com.shashi.library.management.Controller;
+package com.Kirti.library.management.Controller;
 
-import com.shashi.library.management.DataAccessLayer.Book;
-import com.shashi.library.management.DataAccessLayer.IssuedBooks;
-import com.shashi.library.management.DataAccessLayer.IssuedBooksRepository;
+import com.Kirti.library.management.DataAccessLayer.IssuedBooks;
+import com.Kirti.library.management.DataAccessLayer.IssuedBooksRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

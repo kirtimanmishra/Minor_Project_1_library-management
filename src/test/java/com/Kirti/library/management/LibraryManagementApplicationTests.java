@@ -1,4 +1,4 @@
-package com.shashi.library.management;
+package com.Kirti.library.management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

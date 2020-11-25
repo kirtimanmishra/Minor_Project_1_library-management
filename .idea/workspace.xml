@@ -3,8 +3,45 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0762725f-af6b-493a-a613-e8521faa0a3f" name="Default Changelist" comment="" />
+    <list default="true" id="0762725f-af6b-493a-a613-e8521faa0a3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/Controller/BookResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/Controller/BookResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/Controller/IssuedBooksResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/Controller/IssuedBooksResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/Controller/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/Controller/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/IssuedBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/IssuedBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/IssuedBooksRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/IssuedBooksRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/DataAccessLayer/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/DataAccessLayer/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/LibraryManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/LibraryManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/Util/BookValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/Util/BookValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/Util/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/Util/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/exception/BookNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/exception/BookNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/exception/CustomGlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/exception/CustomGlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shashi/library/management/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Kirti/library/management/exception/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shashi/library/management/LibraryManagementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Kirti/library/management/LibraryManagementApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +57,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,19 +67,15 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
   <component name="ProjectId" id="1jburoiNBE0kVPkqRhPORz4Zl3l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture 10/Lecture_10_Mongo/pom.xml" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture 15 - Minor Project 2/Minor Project2 Spring/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -82,6 +118,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="39" width="1089" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604089150797">
       <screen x="0" y="0" width="1536" height="824" />
@@ -91,10 +139,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604087989141" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604742414964">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606316517453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604742414964" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606316517453" />
     <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1604089192280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

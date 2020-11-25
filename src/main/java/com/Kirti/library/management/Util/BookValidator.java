@@ -1,7 +1,7 @@
-package com.shashi.library.management.Util;
+package com.Kirti.library.management.Util;
 
 
-import com.shashi.library.management.DataAccessLayer.Book;
+import com.Kirti.library.management.DataAccessLayer.Book;
 
 public class BookValidator {
     public boolean isValid(Book book){

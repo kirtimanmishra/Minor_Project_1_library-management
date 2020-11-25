@@ -1,4 +1,4 @@
-package com.shashi.library.management.DataAccessLayer;
+package com.Kirti.library.management.DataAccessLayer;
 
 import javax.persistence.*;
 

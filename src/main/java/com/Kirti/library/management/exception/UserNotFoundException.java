@@ -1,4 +1,4 @@
-package com.shashi.library.management.exception;
+package com.Kirti.library.management.exception;
 public class UserNotFoundException extends RuntimeException {
 
     public UserNotFoundException(int id) {

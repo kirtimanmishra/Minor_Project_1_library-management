@@ -1,4 +1,4 @@
-package com.shashi.library.management.DataAccessLayer;
+package com.Kirti.library.management.DataAccessLayer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

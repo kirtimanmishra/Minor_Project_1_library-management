@@ -1,4 +1,4 @@
-package com.shashi.library.management.exception;
+package com.Kirti.library.management.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
